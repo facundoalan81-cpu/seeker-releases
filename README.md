@@ -3,6 +3,12 @@
 <p align="center">Un nombre, un link o una playlist entera.<br>Seeker la busca en todas tus cuentas y baja cada track en calidad real, verificada.</p>
 
 <p align="center">
+  <a href="https://github.com/facundoalan81-cpu/seeker-releases/releases/latest"><img src="https://img.shields.io/github/v/release/facundoalan81-cpu/seeker-releases?label=versi%C3%B3n&color=c8f150&labelColor=0a0a0a" alt="Última versión"></a>
+  <a href="https://github.com/facundoalan81-cpu/seeker-releases/releases"><img src="https://img.shields.io/github/downloads/facundoalan81-cpu/seeker-releases/total?label=descargas&color=c8f150&labelColor=0a0a0a" alt="Descargas"></a>
+  <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-c8f150?logo=apple&logoColor=white&labelColor=0a0a0a" alt="macOS Apple Silicon">
+</p>
+
+<p align="center">
   <a href="https://github.com/facundoalan81-cpu/seeker-releases/releases/latest"><b>⬇︎ Descargar para macOS</b></a>
 </p>
 

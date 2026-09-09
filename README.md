@@ -1,5 +1,5 @@
 <h1 align="center">Seeker</h1>
-<p align="center"><b>Pegá cualquier cosa. Del resto me encargo.</b></p>
+<p align="center"><b>El buscador universal de tracks para DJs.</b></p>
 <p align="center">Un nombre, un link o una playlist entera.<br>Seeker la busca en todas tus cuentas y baja cada track en calidad real, verificada.</p>
 
 <p align="center">

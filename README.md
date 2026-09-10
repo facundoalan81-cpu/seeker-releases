@@ -31,23 +31,31 @@ No te hace elegir. No te devuelve una lista. Te deja el archivo en la carpeta.
 **Corre en tu Mac, con tus cuentas.** Nada pasa por un servidor.
 
 ```
-PIPELINE DE FUENTES                              terminado ✓
-  Muzrec    ✓ encontrado      Muzbase   ✗ nada
-  Soulseek  ✗ nada            Deezer    ✗ nada
-  YouTube   — no se consultó  Web       — no se consultó
+FUENTES
+  Muzrec                                   encontrado
+  Muzbase                                sin conectar
+  Soulseek                                   no está
+  Deezer                                     no está
+  YouTube                                    no está
+  Web                          no se pudo consultar
 
-→ Tiga - Mind Dimension (Ben Sterling Remix).aiff · AIFF · 21.7 kHz · real
+CONSEGUIDO
+  Martina Camargo, Dennis Cruz - El Sueño (Original Mix).aiff
+  AIFF · Muzrec
 ```
 
 ## Instalación
 
-1. Bajá el `.dmg` desde **[Releases](https://github.com/facundoalan81-cpu/seeker-releases/releases/latest)** y arrastrá Seeker a Aplicaciones.
-2. La primera vez, abrilo con **click derecho → Abrir**. La app no está firmada por Apple, así que el doble click te la va a rechazar.
-3. En **Ajustes**, tocá *"Detectar mi sesión"* en las cuentas que uses. Lee la sesión del navegador donde ya estás logueado — Arc, Chrome, Brave, Safari, Firefox, Edge, Vivaldi u Opera.
+1. Bajá el `.dmg` desde **[Releases](https://github.com/facundoalan81-cpu/seeker-releases/releases/latest)**, abrilo y **arrastrá Seeker a Aplicaciones**. Abrilo desde Aplicaciones, no desde el disco montado.
+2. **La primera vez, click derecho sobre la app → Abrir → Abrir.** Seeker no está firmada por Apple: con doble click macOS la rechaza. Es una sola vez; después abre normal.
+3. La app te recibe con **tres pasos**. En el primero conectás las cuentas que tengas: *"Detectar mi sesión"* lee la sesión del navegador donde ya estás logueado (Arc, Chrome, Brave, Safari, Firefox, Edge, Vivaldi u Opera). Soulseek se conecta con usuario y contraseña ahí mismo.
 
-Sin ninguna cuenta también funciona: quedan YouTube, SoundCloud y la búsqueda web.
+**Sin ninguna cuenta también funciona**: quedan YouTube, SoundCloud y la búsqueda por la web abierta. Probado: con el perfil recién instalado y cero cuentas, Seeker igual entrega el track.
 
 macOS Apple Silicon.
+
+> Seeker está en prueba. Si algo falla o algo no se entiende, contalo en
+> **[Issues](https://github.com/facundoalan81-cpu/seeker-releases/issues)** — decí qué buscaste y qué pasó.
 
 ## Preguntas
 
@@ -55,7 +63,7 @@ macOS Apple Silicon.
 
 **¿Y si no encuentra el track?** Te dice en qué fuentes buscó y qué encontró de parecido. Muchas veces el problema es el nombre: probá sin el remixer, o solo el título.
 
-**¿Dónde caen los archivos?** En `~/Downloads/Seeker`. Lo cambiás en Ajustes.
+**¿Dónde caen los archivos?** En `~/Downloads/Seeker`. Lo cambiás en Ajustes, o por búsqueda con *Cambiar* al lado del destino.
 
 ---
 
